@@ -1,0 +1,15 @@
+Questão 1) Quais serão os valores de x, y e p ao final do trecho de código abaixo: ****
+
+int x, y, *p;
+y = 0;
+p = &y;
+x = *p;
+x = 4;
+(*p)++;
+--x;  o valor de x é decrementado em 1
+(*p) += x;
+
+            respostas:
+x = 3
+y = 4
+p = 4 apontar para a variável 'y'
