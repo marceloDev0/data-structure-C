@@ -9,11 +9,20 @@ int main(){
     scanf("%d", &numeroq);
     // declaração do ponteiro
     char *gabarito = (char *) malloc(numeroq * sizeof(char));
+    if(gabarito == NULL){
+        free(gabarito);
+    }
 
     printf("leitura do gabarito: ");
     scanf("%s", gabarito);
     // declaracão do vetor de ponteiro para ponteiro
     char **respostas = (char **) malloc(10 * sizeof(char *));
+    if(respostas == NULL){
+        for(i = 0; i < 10; i++){
+            free(respostas);
+        }
+    }
+    
     for(int i =0; i <10; i++){
         respostas[i] = (char *) malloc(numeroq * sizeof(char));
     }
