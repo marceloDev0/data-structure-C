@@ -7,7 +7,7 @@ struct funcio{
     int CPF;
     char emprego[25];
     float salario;
-    char email[50];
+    char email[50]; 
     int telefo;
 };
 
