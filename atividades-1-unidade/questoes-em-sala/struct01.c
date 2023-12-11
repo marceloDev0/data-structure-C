@@ -29,6 +29,6 @@ int main(){
     printf("matricula: %d", aluno.mat);
     printf("email: %s", aluno.email);
 
-    return 0;
+    return 0; 
     
 }
