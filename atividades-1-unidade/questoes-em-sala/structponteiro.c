@@ -7,7 +7,7 @@ struct aluno
     int idade;
     int mat;
     char email[50];
-}; 
+};  
 
 // função para preencher 
 void preencher(struct aluno * estudante){

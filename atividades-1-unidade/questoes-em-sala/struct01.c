@@ -7,7 +7,7 @@ struct aluno{
     int mat;
     char email[50];
 
-};
+}; 
 
 int main(){
     struct aluno aluno;
