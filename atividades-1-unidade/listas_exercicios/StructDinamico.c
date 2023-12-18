@@ -95,7 +95,7 @@ int main(){
         }
     }while(indentifi != 99);
 
- if(indentifi != 9){
+ if(indentifi != 99){
     for(i =0; i < tamanho; i++){
         printf("Dados do %d° funcionário atualizados:\n", i+1);
         imprimir(&funciona[i]);
