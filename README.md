@@ -23,6 +23,7 @@ Neste repositório, exploramos diferentes estruturas de dados, incluindo listas,
 3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um pull request.
+  
 Sinta-se à vontade para contribuir com implementações em outras linguagens!
 
 Reporsitório universitário! apenas para algoritmos e estrutura de dados 1!
