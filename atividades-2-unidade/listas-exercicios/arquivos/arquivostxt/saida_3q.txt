@@ -1,0 +1,3 @@
+// lista 01 questão 2
+
+amanda		MEDIA: 10.00		Aprovado
