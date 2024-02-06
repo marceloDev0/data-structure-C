@@ -1,0 +1,5 @@
+// lista 01 questão 2
+
+Menor elemento: 1
+Maior elemento: 10
+Média dos elementos: 5.10
