@@ -1,0 +1,4 @@
+O vetor é a forma mais primitiva de representar diversos elementos agrupados.
+
+Estruturas dinâmicas: listas, filas, pilhas
+
